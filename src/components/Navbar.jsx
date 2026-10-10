@@ -36,7 +36,7 @@ export default function Navbar() {
           onClick={(e) => handleClick(e, '#home')}
           className="font-display text-2xl tracking-wide text-ink"
         >
-          R<span className="text-bronze"></span>
+          RK<span className="text-bronze"></span>
         </a>
 
         <ul className="hidden lg:flex items-center gap-8">
