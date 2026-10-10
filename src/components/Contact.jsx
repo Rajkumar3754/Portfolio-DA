@@ -28,7 +28,7 @@ export default function Contact() {
     )}&body=${body}`
     window.location.href = mailto
     setSent(true)
-    setTimeout(() => setSent(false), 4000)
+    setTimeout(() => setSent(false), 5000)
   }
 
   return (
