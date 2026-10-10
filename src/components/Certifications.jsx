@@ -10,13 +10,12 @@ const iconMap = {
 }
 
 const certifications = [
-  
-  {
+   {
     title: 'Foundations: Data, Data, Everywhere',
     issuer: 'Google via Coursera · Jan 2025',
     icon: 'google',
-    image: 'src/assets/G.png',
-    link: '',
+    image: 'src/assets/google-data-foundations.png',
+    link: 'https://coursera.org/verify/IYHM0JLR7IRL',
   },
   {
     title: 'SQL (Basic)',
