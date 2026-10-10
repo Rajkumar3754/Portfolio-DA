@@ -17,6 +17,13 @@ const certifications = [
     image: 'src/assets/google-data-foundations.png',
     link: 'https://coursera.org/verify/IYHM0JLR7IRL',
   },
+   {
+    title: 'Data Analyst Internship',
+    issuer: 'Besant Technology',
+    icon: '',
+    image: 'src/assets/intern.jpeg',
+    link: 'https://coursera.org/verify/IYHM0JLR7IRL',
+  },
   {
     title: 'SQL (Basic)',
     issuer: 'HackerRank · May 2026',
